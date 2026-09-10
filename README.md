@@ -9,6 +9,7 @@ A desktop image editing application written in **C**, using the **IUP** (Portabl
 - [Architecture Overview](#architecture-overview)
 - [Module Breakdown](#module-breakdown)
 - [Features](#features)
+- [Screenshots](#screenshots)
 - [Build Instructions](#build-instructions)
 - [Dependencies](#dependencies)
 - [Usage](#usage)

@@ -97,46 +97,46 @@ The project follows a modular C architecture with clear separation of concerns:
 ## Screenshots
 
 ### Main Window
-![Main window](01-main-window.png)
+![Main window](screenshots/01-main-window.png)
 
 ### Image Opened
-![Image opened](02-image-opened.png)
+![Image opened](screenshots/02-image-opened.png)
 
 ### Grayscale Result
-![Grayscale result](03-grayscale-result.png)
+![Grayscale result](screenshots/03-grayscale-result.png)
 
 ### Brightness Dialog
-![Brightness dialog](04-brightness-dialog.png)
+![Brightness dialog](screenshots/04-brightness-dialog.png)
 
 ### Brightness Result
-![Brightness result](05-brightness-result.png)
+![Brightness result](screenshots/05-brightness-result.png)
 
 ### Undo Result
-![Undo result](06-undo-result.png)
+![Undo result](screenshots/06-undo-result.png)
 
 ### Invert Result
-![Invert result](07-invert-result.png)
+![Invert result](screenshots/07-invert-result.png)
 
 ### Horizontal Flip
-![Horizontal flip](08-horizontal-flip-result.png)
+![Horizontal flip](screenshots/08-horizontal-flip-result.png)
 
 ### Vertical Flip
-![Vertical flip](09-vertical-flip-result.png)
+![Vertical flip](screenshots/09-vertical-flip-result.png)
 
 ### Rotate 90 Clockwise
-![Rotate 90](10-rotate-90degree-clockwise.png)
+![Rotate 90](screenshots/10-rotate-90degree-clockwise.png)
 
 ### Crop Dialog
-![Crop dialog](11-crop-dialog.png)
+![Crop dialog](screenshots/11-crop-dialog.png)
 
 ### Crop Result
-![Crop result](12-crop-result.png)
+![Crop result](screenshots/12-crop-result.png)
 
 ### Blur Result
-![Blur](13-blur-result.png)
+![Blur](screenshots/13-blur-result.png)
 
 ### Post-Save Options
-![Post save](14-post-save-options.png)
+![Post save](screenshots/14-post-save-options.png)
 
 
 
